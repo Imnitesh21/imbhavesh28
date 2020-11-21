@@ -2,6 +2,8 @@
 
 ### I'm Full Stack Web Developer & Cloud Enthusiast! 
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 Here are some ideas to get you started:
 
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play cricket!
 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 
 
