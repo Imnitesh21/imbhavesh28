@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition!
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about Web & Cloud related any stuffs!
+- ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to play cricket!
 
 
 
