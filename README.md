@@ -58,10 +58,10 @@
 <br />
 
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos:
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
 
 
 <details>
@@ -80,7 +80,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.imbhavesh28.vercel.app/api?username=imbhavesh28&show_icons=true&hide_border=true" />
+  <img align="left" alt="imbhavesh28's GitHub Stats" src="https://github-readme-stats.imbhavesh28.vercel.app/api?username=imbhavesh28&show_icons=true&hide_border=true" />
 
 </details>
 
