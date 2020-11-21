@@ -1,4 +1,4 @@
-### Hi there I'm Bhavesh👋
+### Hi, I'm Bhavesh👋
 
 ### I'm Full Stack Web Developer & Cloud Enthusiast! 
 
