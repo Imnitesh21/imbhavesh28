@@ -61,6 +61,12 @@
 <br />
 <br />
 
+[twitter]: https://twitter.com/imbhavesh28
+
+[instagram]: https://www.instagram.com/imbhavesh28/
+[linkedin]: https://www.linkedin.com/in/imbhavesh28/
+[Facebook]: https://www.facebook.com/in/imbhavesh28/
+[GitHub]: https://www.github.com/in/imbhavesh28/
 
 <br>
 
