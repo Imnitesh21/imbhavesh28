@@ -62,9 +62,9 @@
 
 ### 📕 Latest Blog Posts:
 
-### Recent GitHub Activity:
+### ⚡ Recent GitHub Activity:
   
-### GitHub Stats:
+### ⚡ GitHub Stats:
 
 
 
