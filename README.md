@@ -64,11 +64,9 @@
 
 ### Recent GitHub Activity:
   
-### GitHub Stats
+### GitHub Stats:
+<img align="left" alt="imbhavesh28's GitHub Stats" src="https://github-readme-stats.imbhavesh28.vercel.app/api?username=imbhavesh28&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="imbhavesh28's GitHub Stats" src="https://github-readme-stats.imbhavesh28.vercel.app/api?username=imbhavesh28&show_icons=true&hide_border=true" />
-
-</details>
 
 
 
