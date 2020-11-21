@@ -2,15 +2,8 @@
 
 ### I'm Full Stack Web Developer | Competitive Programmer | & Cloud Enthusiast! 
 
-### Connect With Me:
+[![Linkedin Badge](https://img.shields.io/badge/-imbhavesh28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imbhavesh28/)](https://www.linkedin.com/in/imbhavesh28/) [![Twitter Badge](https://img.shields.io/badge/-@imbhavesh28-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imbhavesh28)](https://twitter.com/imbhavesh28) [![Facebook Badge](https://img.shields.io/badge/-@imbhavesh28-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/imbhavesh28) [![Instagram Badge](https://img.shields.io/badge/-@imbhavesh28-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/imbhavesh28)](https://www.instagram.com/imbhavesh28/)
 
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 
