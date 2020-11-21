@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Devloper Student Clubs Lead at LPU, Punjab & (Beta) Microsoft Learn Student Ambassador.
 - 🌱 I’m currently learning Full Stack Web Devlopment, Google Cloud, AWS & Azure.
 - 👯 I’m looking to collaborate on Open Source Projects & Web related projects.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Web Development & Cloud related projects.
+- 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition!
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about Web & Cloud related any stuffs!
-- 😄 Pronouns: His/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play cricket!
 
 
