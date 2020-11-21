@@ -15,8 +15,6 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Devloper Student Clubs Lead at LPU, Punjab & (Beta) Microsoft Learn Student Ambassador.
 - 🌱 I’m currently learning Full Stack Web Devlopment, Google Cloud, AWS & Azure.
 - 👯 I’m looking to collaborate on Open Source Projects & Web related projects.
