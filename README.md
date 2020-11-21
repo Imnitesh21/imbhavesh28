@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects & Web related projects.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Web & Cloud related any stuffs!
-- 📫 How to reach me: @imbhavesh28(Twitter) & LinkedIn(@imbhavesh28).
+- 📫 How to reach me: @imbhavesh28(Twitter) & LinkedIn(@imbhavesh28)!
 - 😄 Pronouns: His/Him
-- ⚡ Fun fact: I love to play cricket.
+- ⚡ Fun fact: I love to play cricket!
 -->
