@@ -2,12 +2,22 @@
 
 ### I'm Full Stack Web Developer & Cloud Enthusiast! 
 
+### Connect With Me:
+
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Devloper Student Clubs Lead at LPU, Punjab & (Beta) Microsoft Learn Student Ambassador.
+- 🔭 I’m currently working at Devloper Student Clubs Lead at LPU, Punjab & (Beta) Microsoft Learn Student Ambassador.
 - 🌱 I’m currently learning Full Stack Web Devlopment, Google Cloud, AWS & Azure.
 - 👯 I’m looking to collaborate on Open Source Projects & Web related projects.
 - 🤔 I’m looking for help with 
@@ -25,9 +35,14 @@ Here are some ideas to get you started:
 ### Connect With Me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 <br />
 
@@ -65,6 +80,9 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/imbhavesh28/
 [linkedin]: https://www.linkedin.com/in/imbhavesh28/
+[Facebook]: https://www.facebook.com/imbhavesh28
+[GitHub]: https://www.github.com/imbhavesh28
+
 
 
 
