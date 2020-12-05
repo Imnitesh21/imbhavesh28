@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-imbhavesh28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imbhavesh28/)](https://www.linkedin.com/in/imbhavesh28/) [![Twitter Badge](https://img.shields.io/badge/-@imbhavesh28-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imbhavesh28)](https://twitter.com/imbhavesh28) [![Facebook Badge](https://img.shields.io/badge/-@imbhavesh28-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/imbhavesh28) [![Instagram Badge](https://img.shields.io/badge/-@imbhavesh28-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/imbhavesh28)](https://www.instagram.com/imbhavesh28/)
 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="500">
 
   #### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
 
