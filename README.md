@@ -37,11 +37,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-### ⚡ GitHub Stats:
 
-![imbhavesh28's github stats](https://github-readme-stats.vercel.app/api?username=imbhavesh28&show_icons=true&hide_border=true)
+### 📈 Github Stats:
 
-⭐️ From [imbhavesh28](https://github.com/imbhavesh28)
+<a href="https://github.com/imbhavesh28">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imbhavesh28&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imbhavesh28&layout=compact&theme=blue-green" />
+</a>
 
 
 ### ⚡ Recent GitHub Activity:
