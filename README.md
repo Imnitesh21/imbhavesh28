@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects & Web related projects.
 - 🤔 I’m looking for help with Web Development & Cloud related projects.
 - 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition!
-- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge."
 - 💬 Ask me about Web & Cloud related any stuffs!
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - 😄 Pronouns: He/His
