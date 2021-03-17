@@ -4,8 +4,8 @@
 
 ### About Me:
 
-- 🔭 I’m currently working at Devloper Student Clubs Lead at LPU, Punjab & (Beta) Microsoft Learn Student Ambassador.
-- 🌱 I’m currently learning Full Stack Web Devlopment, Data Structures & Algorithms, Google Cloud, AWS & Azure.
+- 🔭 I’m currently working at Devloper Student Clubs Lead at Google Developers, Punjab & (Beta) Microsoft Learn Student Ambassador.
+- 🌱 I’m a Full Stack Web Developer & Aspiring Cloud & DevOps Architect.
 - 👯 I’m looking to collaborate on Open Source Projects, Web & Cloud related projects.
 - 🤔 I’m looking for help with Web Development & Cloud related projects.
 - 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition!
