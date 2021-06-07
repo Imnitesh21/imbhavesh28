@@ -2,14 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-imbhavesh28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imbhavesh28/)](https://www.linkedin.com/in/imbhavesh28/) [![Twitter Badge](https://img.shields.io/badge/-@imbhavesh28-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imbhavesh28)](https://twitter.com/imbhavesh28) [![Facebook Badge](https://img.shields.io/badge/-@imbhavesh28-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/imbhavesh28) 
 
-### About Me:
-
-- 🔭 I’m currently working at Devloper Student Clubs Lead at LPU, Punjab & (Beta) Microsoft Learn Student Ambassador.
-- 🌱 I’m a Full Stack Web Developer & Aspiring Cloud & DevOps Architect.
-- 👯 I’m looking to collaborate on Open Source Projects, Web & Cloud related projects.
-- 🤔 I’m looking for help with Web Development & Cloud related projects.
-- 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition!
-
 ### Languages & Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,7 +28,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imbhavesh28&layout=compact&theme=blue-green" />
 </a>
 
-### 📕 Latest Blog Posts:
+
 
 
   
