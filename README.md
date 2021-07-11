@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Mali</h1>
 
-<img src="https://i.imgur.com/Eu3NtrU.png">
+<img src="https://i.imgur.com/Eu3NtrU.png" width="1000" height="300">
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
