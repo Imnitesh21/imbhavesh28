@@ -7,7 +7,6 @@
 I am a Final Year Student at Lovely Professional University currently undertaking my Bachelors in Computer Science and Engineering. 
   </samp><br><br>
   <samp>
-  <br> <br>
   <img src="https://komarev.com/ghpvc/?username=imbhavesh28" alt="imbhavesh28" /> 
 </p>
 <h2 align="center"> 🔭 Technology Stack</h2>
