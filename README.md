@@ -23,8 +23,7 @@ I am a Final Year Student at Lovely Professional University currently undertakin
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imbhavesh28&layout=compact&hide=html&theme=jolly" alt="imbhavesh28" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Reach Out To Me On</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/imbhavesh28"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/imbhavesh28"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +31,6 @@ I am a Final Year Student at Lovely Professional University currently undertakin
   <a href="https://www.instagram.com/imbhavesh28r/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://imbhavesh28.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
